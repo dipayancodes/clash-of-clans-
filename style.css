@@ -1,0 +1,19 @@
+/* * { */
+/*   margin: 0; */
+/*   padding: 0; */
+/* } */
+
+.container {
+  margin: 30px auto 0 auto;
+  background-color: yellow;
+  padding: 2rem;
+  border-radius: 15px;
+  max-width: 80%;
+}
+
+button {
+  padding: 8px;
+  outline: none;
+  cursor: pointer;
+}
+
