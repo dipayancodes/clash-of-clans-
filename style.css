@@ -1,19 +1,191 @@
-/* * { */
-/*   margin: 0; */
-/*   padding: 0; */
-/* } */
-
+/* ============================= HARE KRISHNA ========================= */
+body {
+  background-size: cover;
+}
 .container {
   margin: 30px auto 0 auto;
   background-color: yellow;
   padding: 2rem;
   border-radius: 15px;
-  max-width: 80%;
+  max-width: 88%;
 }
 
 button {
-  padding: 8px;
-  outline: none;
-  cursor: pointer;
+  background-color: #f1f1f1;
+  display: inline-grid;
+  width: 140px;
+  margin: 20px;
+  margin-left: 150px;
+  text-align: center;
+  line-height: 75px;
+  border-radius: 20px;
+  font-size: 20px;
 }
+
+.resultbtn {
+  margin-left: 620px;
+}
+
+.trained {
+  border-radius: 30px;
+  background: transparent;
+  margin: 30px;
+  max-width: 24%;
+  text-align: center;
+  font-size: 20px;
+}
+
+.btrained {
+  display: inline-grid;
+  line-height: 10px;
+  padding: 50px;
+  width: 290px;
+  margin: 20px;
+  background: purple;
+  max-width: 80%;
+}
+
+.atrained {
+  display: inline-grid;
+  line-height: 10px;
+  padding: 50px;
+  width: 290px;
+  margin: 20px;
+  background: purple;
+  max-width: 80%;
+}
+
+.gtrained {
+  display: inline-grid;
+  line-height: 10px;
+  padding: 50px;
+  width: 290px;
+  margin: 20px;
+  background: purple;
+  max-width: 80%;
+}
+
+.wtrained {
+  display: inline-grid;
+  line-height: 10px;
+  padding: 50px;
+  width: 290px;
+  margin: 20px;
+  background: purple;
+  max-width: 80%;
+}
+.dtrained {
+  display: inline-grid;
+  line-height: 10px;
+  padding: 50px;
+  width: 290px;
+  margin: 20px;
+  background: purple;
+  max-width: 80%;
+}
+
+
+.trainfirst {
+  background: red;
+  font-weight: 900 ;
+  padding: 2rem;
+  max-width: 50%;
+  margin: -780px;
+  margin-right: 800px;
+  margin-left: 800px;
+  text-align: center;
+  border-radius: 8px;
+  font-size: 200%;
+}
+
+.startedattacking {
+  background: red;
+  margin: 900px;
+  max-width: -40px;
+  padding: 1rem;
+  width: 430px;
+  font-size: 50px;
+  border-radius: 40px;
+  text-align: center;
+}
+
+.battlefound {
+  background: red;
+  max-width: 50%;
+  padding: 3rem;
+  width: 830px;
+  font-size: 50px;
+  margin-left: 690px;
+  text-align: center;
+}
+
+.wonbattle {
+  background: red;
+  margin: 900px;
+  max-width: -40px;
+  padding: 1rem;
+  width: 430px;
+  font-size: 50px;
+  border-radius: 40px;
+  text-align: center;
+}
+
+.lostbattle {
+  background: red;
+  margin: 900px;
+  max-width: -40px;
+  padding: 1rem;
+  width: 430px;
+  font-size: 50px;
+  border-radius: 40px;
+  text-align: center;
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
